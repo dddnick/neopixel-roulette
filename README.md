@@ -1,6 +1,9 @@
 
 > Open this page at [https://dddnick.github.io/neopixel-roulette/](https://dddnick.github.io/neopixel-roulette/)
-
+## Parts Required
+micro:bit
+freenove 8 RGB LED module
+freenove micro bit GPIO extension board
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
